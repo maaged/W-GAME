@@ -7,16 +7,12 @@ Stylish Game_eCommerce iOS App UI with Hero Animations using SwiftUI 5.0.
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/shameemreza/uray/blob/main/LICENSE)
 
 
-## Video Preview
-
-[![Animated Onboarding Screens](https://img.youtube.com/vi/KZ2Fa-5TnZY/0.jpg)](https://youtu.be/KZ2Fa-5TnZY "eCommerce App UI")
 
 ## Screenshots
 
 <img src="row/preview-1.png">
 <img src="row/preview-2.png">
-<img src="row/preview-3.png">
-<img src="row/preview-4.png">
+
 
 ## Features
 
